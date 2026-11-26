@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chhaap</string>
+    <string name="tagline">Every job leaves a mark.</string>
+    <string name="tagline_hi">हर काम की पक्की पहचान।</string>
+    <string name="welcome_headline">Your work speaks. Now it has proof.</string>
+    <string name="welcome_subtext">Turn every completed job into verified experience that stays with you.</string>
+    <string name="cta_get_started">Get Started</string>
+    <string name="cta_explore_demo">Explore Demo</string>
+    <string name="cta_create_workmark">Create WorkMark</string>
+    <string name="status_verified">Verified</string>
+    <string name="status_pending">Pending Verification</string>
+</resources>
